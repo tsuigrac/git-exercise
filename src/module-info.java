@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tsuigrac
+ *
+ */
+module gitProject {
+}
